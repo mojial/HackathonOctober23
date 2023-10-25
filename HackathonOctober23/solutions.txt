@@ -1,0 +1,2 @@
+#solutions
+El elfo con el valor máximo es: elfo26 con un valor de 70764
